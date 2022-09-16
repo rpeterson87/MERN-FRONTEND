@@ -12,7 +12,7 @@ function People({ URL }) {
     //  This is the state with an object
     const [newForm, setNewForm] = useState(initForm);
     // initial state for when the dom mounts 
-    // 
+    
 
 
 
